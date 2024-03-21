@@ -1,1 +1,1 @@
-npm i react-redux redux-persist @redxjs/toolkit
+npm i react-redux redux-persist @reduxjs/toolkit
